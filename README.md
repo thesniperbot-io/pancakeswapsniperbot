@@ -1,9 +1,6 @@
 # Pancakeswap Sniper Bot - 30-Days Free Trial BSC Sniper Bot and More..
-Pancakeswap sniper bot  source codes and updates for github community please visit our website for more details https://thesniperbot.io
-                                                 
-                                          You can download bot files from our official website.
-                                                        https://thesniperbot.io
-
+<b>Our official website: https://thesniperbot.io</b>
+                                                
 <li id="menu-item-948" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-948"><a href="https://thesniperbot.io/" aria-current="page" data-wpel-link="internal">Installation Instructions</a></li>                                                       
 <li id="menu-item-948" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-948"><a href="https://thesniperbot.com/downloads/all-in-one-sniper-bot" aria-current="page" data-wpel-link="internal">Start Your Free Trial</a></li>
 <li id="menu-item-1377" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-1377"><a href="https://thesniperbot.io/#features" aria-current="page" data-wpel-link="internal">Features</a></li>
