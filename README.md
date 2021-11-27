@@ -1,5 +1,5 @@
 # Pancakeswap Sniper Bot: Free BSC Sniper Bot
-<b>Our official website: https://thesniperbot.io</b>
+<b>Please visit our official website for more details: https://thesniperbot.io</b>
                                                 
 <li id="menu-item-948" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-948"><a href="https://thesniperbot.io/" aria-current="page" data-wpel-link="internal">Installation Instructions</a></li>                                                       
 <li id="menu-item-948" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-948"><a href="https://thesniperbot.com/downloads/all-in-one-sniper-bot" aria-current="page" data-wpel-link="internal">Start Your Free Trial</a></li>
