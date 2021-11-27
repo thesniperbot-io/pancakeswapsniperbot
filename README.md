@@ -1,5 +1,5 @@
 # Pancakeswap Sniper Bot: Free BSC Sniper Bot
-<b>Please visit our official website for more details: https://thesniperbot.io</b> many thanks for your support.
+<b>Please visit our website for installation instructions https://thesniperbot.io</b> thanks for your support.
 <img width="426" height="306" src="https://thesniperbot.io/wp-content/uploads/2021/07/TheSniperBotWall.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://thesniperbot.io/wp-content/uploads/2021/07/TheSniperBotWall.png 1158w, https://thesniperbot.io/wp-content/uploads/2021/07/TheSniperBotWall-600x521.png 600w, https://thesniperbot.io/wp-content/uploads/2021/07/TheSniperBotWall-300x261.png 300w, https://thesniperbot.io/wp-content/uploads/2021/07/TheSniperBotWall-1024x890.png 1024w, https://thesniperbot.io/wp-content/uploads/2021/07/TheSniperBotWall-768x667.png 768w" sizes="(max-width: 600px) 100vw, 600px">
                                                 
 <li id="menu-item-948" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-948"><a href="https://thesniperbot.io/" aria-current="page" data-wpel-link="internal">Installation Instructions</a></li>                                                       
