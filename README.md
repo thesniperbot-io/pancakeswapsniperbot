@@ -22,7 +22,7 @@
 <li id="menu-item-1395" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-1395"><a href="https://thesniperbot.io/crypto-and-token-launch-sniper-bot-meaning-of-token-sniper-bot.html" data-wpel-link="internal">Crypto And Token Launch Sniper Bot – Meaning Of Token Sniper Bot</a></li>
 </ul>
 
-                                                    Frequently Asking Questions (FAQ)
+<b>Frequently Asking Questions (FAQ)</b>
 
 How does Sniper Bot work?
   
