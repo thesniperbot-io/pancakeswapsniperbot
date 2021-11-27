@@ -1,4 +1,4 @@
-# Pancakeswap Sniper Bot - 30-Days Free Trial BSC Sniper Bot and More..
+# Pancakeswap Sniper Bot: Free BSC Sniper Bot » TheSniperBot
 <b>Our official website: https://thesniperbot.io</b>
                                                 
 <li id="menu-item-948" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-948"><a href="https://thesniperbot.io/" aria-current="page" data-wpel-link="internal">Installation Instructions</a></li>                                                       
